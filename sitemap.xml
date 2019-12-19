@@ -47,6 +47,7 @@
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#hw%3Arouter%3Aasus%3Art-n66u</loc> <lastmod>2019-11-28</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#hw%3Arouter%3Aavm%3Afritzbox%3A4040</loc> <lastmod>2019-11-28</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#hw%3Arouter%3Atp-link%3Atp%3Awr841nv13%3A841n%3Av13</loc> <lastmod>2019-11-28</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
+<url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#Imprint%3ADisclaimer</loc> <lastmod>2019-12-16</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#linux%3Adaemon%3Audev%3Ausb%3Ascripts</loc> <lastmod>2019-11-28</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#linux%3Afs%3Anet%3Asamba%3Asmb%3Acifs%3Agvfs</loc> <lastmod>2019-12-11</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#linux%3Ainit%3Ainitramfs%3Adropbear</loc> <lastmod>2019-12-12</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
@@ -94,9 +95,10 @@
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#netcat%20%2F%20socat</loc> <lastmod>2019-11-28</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#print%3Acups</loc> <lastmod>2019-11-28</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#pulseaudio%3Arecord%3Awav%3Amonitor</loc> <lastmod>2019-11-27</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
+<url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#Sitemap</loc> <lastmod>2019-12-16</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#sound%3Alinux%3Aalsa</loc> <lastmod>2019-11-28</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#sox</loc> <lastmod>2019-11-27</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
-<url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#Startpage_Disclaimer_Index_Placeholder</loc> <lastmod>2019-12-16</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
+<url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#Startpage_Index_Placeholder</loc> <lastmod>2019-12-16</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#storage%3Afs%3As3%3Aminio</loc> <lastmod>2019-11-28</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#sys%3Aboot%3Afirmware%3Auefi%3Acoreboot</loc> <lastmod>2019-11-28</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#sys%3Acommand%3Afind</loc> <lastmod>2019-12-12</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
@@ -139,7 +141,7 @@
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#sys%3Arecovery%3Aforensic%3Antfs</loc> <lastmod>2019-11-28</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#sys%3Atools%3Aawk</loc> <lastmod>2019-11-29</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#sys%3Atools%3Affmpeg%3Aavconv%3Avideo%3Aaudio%3Aconvert</loc> <lastmod>2019-11-28</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
-<url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#sys%3Avm%3Adocker</loc> <lastmod>2019-12-13</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
+<url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#sys%3Avm%3Adocker</loc> <lastmod>2019-12-18</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#sys%3Avm%3Adocker%3Amac%3AmacOSX</loc> <lastmod>2019-12-12</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#sys%3Avm%3Adocker%3Asynology</loc> <lastmod>2019-12-12</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#sys%3Avm%3Aqemu</loc> <lastmod>2019-11-28</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
@@ -148,6 +150,8 @@
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#TiddlyWiki%3ACheatSheet%3AFormatting%3APlugins%3AShortcuts</loc> <lastmod>2019-12-12</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#TiddlyWiki%3AGeoTiddler</loc> <lastmod>2019-12-12</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#TiddlyWiki%3ALeaflet%3Amaps%3Aplugin</loc> <lastmod>2019-12-12</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
+<url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#TOC%3ATable%3Aof%3Acontents</loc> <lastmod>2019-12-16</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
+<url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#TOC%3Atags</loc> <lastmod>2019-12-16</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#vpn%3Avpngate.net</loc> <lastmod>2019-11-27</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#web%3Abrowser%3Achrome%3Airon</loc> <lastmod>2019-11-28</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#web%3Abrowser%3Afirefox</loc> <lastmod>2019-11-28</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
@@ -175,6 +179,5 @@
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#web%3Awebsockets%3Awss</loc> <lastmod>2019-11-28</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#xrandr%3Adual-head</loc> <lastmod>2019-11-28</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 <url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#zzz%3Aunsorted%3Aopenwrt%3Arouters%3Atemp</loc> <lastmod>2019-12-12</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
-<url> <loc>https://doc-links-manual-howto.github.io/pub/wiki.html#Sitemap</loc> <lastmod>2019-12-16</lastmod>  <changefreq>weekly</changefreq><priority>0.5</priority> </url> 
 
 </urlset>
